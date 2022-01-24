@@ -1,0 +1,2 @@
+# cafe_website_static
+a_static_website
